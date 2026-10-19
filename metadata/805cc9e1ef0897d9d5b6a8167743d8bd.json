@@ -7,8 +7,13 @@
   "upload_time": "2026-10-19T06:46:05+00:00",
   "expiry_time": "2026-10-20T06:46:05+00:00",
   "max_downloads": 3,
-  "download_count": 0,
-  "downloads": [],
+  "download_count": 1,
+  "downloads": [
+    {
+      "time": "2026-10-19T06:47:55+00:00",
+      "status": "success"
+    }
+  ],
   "owner_id_hash": "849c64f9f201fd0ab399d8fb2fbfe1c008e3c2a32b55f5553defb99fbb2cd531",
   "revoked": false,
   "cleanup_status": "pending",
