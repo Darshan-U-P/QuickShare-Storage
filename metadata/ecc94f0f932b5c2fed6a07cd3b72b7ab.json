@@ -7,5 +7,12 @@
   "expiry_time": "2026-10-18T16:53:42+00:00",
   "max_downloads": 1,
   "download_count": 0,
-  "downloads": []
+  "downloads": [
+    {
+      "time": "2026-10-20T03:33:05+00:00",
+      "status": "cleanup_deleted"
+    }
+  ],
+  "cleanup_status": "deleted",
+  "cleanup_at": "2026-10-20T03:33:05+00:00"
 }
