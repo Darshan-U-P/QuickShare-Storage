@@ -12,11 +12,16 @@
     {
       "time": "2026-10-22T16:20:35+00:00",
       "status": "revoked"
+    },
+    {
+      "time": "2026-10-23T03:32:59+00:00",
+      "status": "cleanup_deleted"
     }
   ],
   "owner_id_hash": "849c64f9f201fd0ab399d8fb2fbfe1c008e3c2a32b55f5553defb99fbb2cd531",
   "revoked": true,
-  "cleanup_status": "pending",
+  "cleanup_status": "deleted",
   "drive_file_id": "1yNHnRwPUrr5KwfBV1kpVoMKrrzcnYmhj",
-  "revoked_at": "2026-10-22T16:20:35+00:00"
+  "revoked_at": "2026-10-22T16:20:35+00:00",
+  "cleanup_at": "2026-10-23T03:32:59+00:00"
 }
