@@ -8,9 +8,15 @@
   "expiry_time": "2026-10-28T20:07:20+00:00",
   "max_downloads": 3,
   "download_count": 0,
-  "downloads": [],
+  "downloads": [
+    {
+      "time": "2026-10-29T03:33:00+00:00",
+      "status": "cleanup_deleted"
+    }
+  ],
   "owner_id_hash": "849c64f9f201fd0ab399d8fb2fbfe1c008e3c2a32b55f5553defb99fbb2cd531",
   "revoked": false,
-  "cleanup_status": "pending",
-  "drive_file_id": "1GsPHFZp7f5C1MNKaE2cQgiXoTT9IkKy7"
+  "cleanup_status": "deleted",
+  "drive_file_id": "1GsPHFZp7f5C1MNKaE2cQgiXoTT9IkKy7",
+  "cleanup_at": "2026-10-29T03:33:00+00:00"
 }
